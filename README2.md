@@ -10,9 +10,7 @@ Launch contents of balanceViewer in a Python IDE.
 
 A binance account is needed to use this software.
 
-<b>Follow the link below to create an account if you don't already have one:</b>
-
-    https://www.binance.com/?ref=16527883
+<b>Click [here](https://www.binance.com/?ref=16527883) to create an account if you don't already have one.</b>
     
  After logging into Binance, follow the following steps to create your API keys:
     
@@ -36,9 +34,11 @@ api_secret = 'enter secret key here'
 api_key = 'enter key here'
 ```
 
-## Running the tests
+## Running the software
 
-Explain how to run the automated tests for this system
+Run balanceViewer.py
+
+Enter a command
 
 ### Break down into end to end tests
 
