@@ -1,6 +1,6 @@
 # Trading AI
 
-A cryptocurrency trading software currently in development.
+A cryptocurrency trading software currently in development. Planning on expanding to FOREX and stock exchanges in the future.
 
 ## Getting Started
 
