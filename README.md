@@ -40,5 +40,10 @@ Run balanceViewer.py
 
 Enter a command (currently balance and stop are the only available commands).
 
+```
+stop = ends program
+balance = checks balance of a particular asset
+```
+
 Enter a coin to view your balance (eg. "btc").
 
